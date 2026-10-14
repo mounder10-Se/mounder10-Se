@@ -23,9 +23,9 @@
   <br>
   🤖 Je m'intéresse à l'utilisation de l'IA pour la <b>détection intelligente des intrusions et des cybermenaces</b>
   <br>
-  🌐 Je travaille aussi sur le développement web (Django, Express JS, React JS) et mobile (Dart)
+  🌐 Développement web (Django, Express JS, React, Next.js) et mobile (Flutter / Dart)
   <br>
-  🗣️ Langues : Arabe (langue maternelle) · Français (C1) · Anglais (B1)
+  🗣️ Langues : Arabe (langue maternelle) · Français · Anglais
   <br>
   📫 Me contacter : <a href="mailto:mounder.semroun@univ-constantine2.dz">mounder.semroun@univ-constantine2.dz</a>
 </p>
@@ -36,7 +36,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,react,django,express,linux,git,github,vscode" alt="Compétences techniques" />
+  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,react,nextjs,django,express,nodejs,tailwind,flutter,linux,git,github,vscode,pycharm,eclipse" alt="Langages et frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j,sqlite,tensorflow,keras" alt="Bases de données et IA" />
 </p>
 
 <p align="center">
@@ -59,8 +63,37 @@
   <br>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/CNN-8E44AD?style=flat" alt="CNN">
+  <img src="https://img.shields.io/badge/SVM-FF6F00?style=flat" alt="SVM">
+  <img src="https://img.shields.io/badge/KNN-FF6F00?style=flat" alt="KNN">
   <img src="https://img.shields.io/badge/Analyse%20de%20donn%C3%A9es-27AE60?style=flat" alt="Analyse de données">
 </p>
+
+<hr>
+
+<h2 align="center">🚀 Projets 🚀</h2>
+<br>
+
+### 🏨 Application Web de Gestion Hôtelière (PMS) — Projet de fin de licence (2024-2025)
+Système de gestion immobilière pour le secteur hôtelier : réservations, maintenance et paie. Architecture modulaire avec mécanismes d'ordonnancement et de gestion des conflits pour optimiser l'utilisation des ressources.
+`Node.js` `React` `Flutter` `MySQL`
+
+### 🍽️ Plateforme intelligente de gestion de restaurant basée sur l'IA et l'IoT (2024-2025)
+Gestion des commandes, des réservations et des stocks, avec capteurs IoT et chatbot basé sur l'IA pour améliorer l'expérience utilisateur et automatiser les processus.
+`React (TypeScript)` `Django` `IoT` `Chatbot IA`
+
+### 🤖 Prédiction du revenu annuel (> 50K$) — Machine Learning, Master 1 (2025-2026)
+Classification binaire : prétraitement des données, gestion des valeurs manquantes, comparaison de plusieurs algorithmes et analyse de l'impact des méthodes d'imputation sur les performances.
+`Python` `Scikit-learn` `Jupyter`
+
+### 🗄️ Projets avancés en bases de données — Master 1 (2025-2026)
+- **Relationnel (PostgreSQL)** : conception et optimisation, requêtes SQL avancées
+- **NoSQL (MongoDB)** : pipelines d'agrégation
+- **Graphe (Neo4j)** : graphe de connaissances avec requêtes Cypher
+
+<h4 align="center">
+  <a href="https://github.com/mounder10-Se?tab=repositories" title="Voir les dépôts">🔎 Voir tous mes dépôts 🔍</a>
+</h4>
 
 <hr>
 
@@ -83,34 +116,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mounder10-Se&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Graphique d'activité"/>
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Projets 👨‍💻</h2>
-<br>
-
-<!-- Remplacez NOM-DU-DEPOT par le nom exact de vos dépôts GitHub -->
-<p align="center">
-  <a href="https://github.com/mounder10-Se/NOM-DU-DEPOT-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounder10-Se&repo=NOM-DU-DEPOT-1&theme=react&border_color=61dafb&border_radius=10" alt="Projet 1">
-  </a>
-  <a href="https://github.com/mounder10-Se/NOM-DU-DEPOT-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounder10-Se&repo=NOM-DU-DEPOT-2&theme=react&border_color=61dafb&border_radius=10" alt="Projet 2">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mounder10-Se/NOM-DU-DEPOT-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounder10-Se&repo=NOM-DU-DEPOT-3&theme=react&border_color=61dafb&border_radius=10" alt="Projet 3">
-  </a>
-  <a href="https://github.com/mounder10-Se/NOM-DU-DEPOT-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mounder10-Se&repo=NOM-DU-DEPOT-4&theme=react&border_color=61dafb&border_radius=10" alt="Projet 4">
-  </a>
-</p>
-
-<h4 align="center">
-  <a href="https://github.com/mounder10-Se?tab=repositories" title="Voir les dépôts">🔎 Voir plus de projets 🔍</a>
-</h4>
 
 <hr>
 
