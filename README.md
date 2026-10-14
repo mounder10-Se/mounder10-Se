@@ -25,7 +25,7 @@
   <br>
   🌐 Je travaille aussi sur le développement web (Django, Express JS, React JS) et mobile (Dart)
   <br>
-  🗣️ Langues : Arabe (langue maternelle) · Français (C1) · Anglais (A2)
+  🗣️ Langues : Arabe (langue maternelle) · Français (C1) · Anglais (B1)
   <br>
   📫 Me contacter : <a href="mailto:mounder.semroun@univ-constantine2.dz">mounder.semroun@univ-constantine2.dz</a>
 </p>
