@@ -15,17 +15,19 @@
   Salut, je suis <b>Moundir SEMROUNE</b>, étudiant en Master 2 Sciences des données et Intelligence artificielle, d'Algérie 🇩🇿
   <br>
   <br>
-  🎓 Master 2 Sciences des données & Intelligence artificielle, Université de Constantine 2 – Abdelhamid Mehri (en cours)
+  🏨 J'ai conçu et développé une <b>application web de gestion hôtelière (PMS)</b> avec Node.js, React, Flutter et MySQL pour mon projet de fin de licence
   <br>
-  🎓 Licence en Informatique, spécialité Technologies de l'information, Université de Constantine 2
+  🍽️ J'ai réalisé une <b>plateforme de gestion de restaurant</b> intégrant IA, IoT et chatbot, avec React (TypeScript) et Django
   <br>
-  🛡️ Objectif : poursuivre mes études en <b>réseaux et cybersécurité</b> et devenir expert en cybersécurité
+  🤖 J'ai mené un projet de <b>Machine Learning</b> de classification binaire : prétraitement, valeurs manquantes, comparaison d'algorithmes
   <br>
-  🤖 Je m'intéresse à l'utilisation de l'IA pour la <b>détection intelligente des intrusions et des cybermenaces</b>
+  🗄️ J'ai travaillé sur trois types de bases de données : <b>PostgreSQL, MongoDB et Neo4j</b>
   <br>
-  🌐 Développement web (Django, Express JS, React, Next.js) et mobile (Flutter / Dart)
+  🌦️ J'ai effectué un stage à <b>Météo Algérie</b> (Constantine) : traitement et analyse de données météorologiques en temps réel
   <br>
-  🗣️ Langues : Arabe (langue maternelle) · Français · Anglais
+  🌐 Je développe en web (Django, Express JS, React, Next.js) et en mobile (Flutter / Dart)
+  <br>
+  🎓 Licence en Informatique et Master en Sciences des données & IA, Université de Constantine 2 – Abdelhamid Mehri
   <br>
   📫 Me contacter : <a href="mailto:mounder.semroun@univ-constantine2.dz">mounder.semroun@univ-constantine2.dz</a>
 </p>
