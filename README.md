@@ -21,6 +21,7 @@
 Je suis un développeur polyvalent, étudiant en Sciences des données et Intelligence artificielle à l'Université de Constantine 2. J'aime construire des applications complètes, du backend au mobile, et exploiter l'IA et les données pour créer des systèmes plus intelligents.
 
 * 🛠️ **Projets** : application web de gestion hôtelière (PMS), plateforme de gestion de restaurant avec IA, IoT et chatbot, projets de Machine Learning et de bases de données (PostgreSQL, MongoDB, Neo4j).
+* 🌦️ **Expérience** : stage à Météo Algérie (Constantine), traitement et analyse de données météorologiques en temps réel.
 * 💬 **Demandez-moi** : Python, Java, Django, Flutter ou React.
 * ⚡ **Fun fact** : j'apprends en autodidacte, j'ai toujours envie de découvrir, tester et maîtriser de nouvelles technologies.
 * 📫 **Me contacter** : [mounder.semroun@univ-constantine2.dz](mailto:mounder.semroun@univ-constantine2.dz)
@@ -31,7 +32,7 @@ Je suis un développeur polyvalent, étudiant en Sciences des données et Intell
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,react,nextjs,django,express,nodejs,tailwind,flutter,linux,git,github,vscode,pycharm,eclipse" alt="Langages et frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,dart,js,ts,react,nextjs,django,express,nodejs,tailwind,flutter,linux,git,github,vscode,pycharm" alt="Langages et frameworks" />
 </p>
 
 <p align="center">
@@ -51,6 +52,8 @@ Je suis un développeur polyvalent, étudiant en Sciences des données et Intell
   <img src="https://img.shields.io/badge/FTP-1BA0D7?style=flat" alt="FTP">
   <br>
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049fd9?style=flat&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows Server">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
@@ -63,6 +66,26 @@ Je suis un développeur polyvalent, étudiant en Sciences des données et Intell
   <img src="https://img.shields.io/badge/KNN-FF6F00?style=flat" alt="KNN">
   <img src="https://img.shields.io/badge/Analyse%20de%20donn%C3%A9es-27AE60?style=flat" alt="Analyse de données">
 </p>
+
+<hr>
+
+<h2 align="center">🛡️ Réseaux & Cybersécurité 🛡️</h2>
+<br>
+
+<p align="center">
+  <i>Comprendre comment l'information circule, pour mieux la protéger.</i>
+</p>
+
+* 🌐 **Mes bases réseaux** : routage dynamique (OSPF, EIGRP, RIP, BGP), commutation (VLAN, STP), redondance (HSRP) et tunnels VPN, que je pratique en simulation avec **Cisco Packet Tracer**, **VMware** et **Windows Server**.
+* 🐧 **Environnement de travail** : ligne de commande **Linux**, avec **Kali Linux** pour me familiariser avec l'univers de la sécurité offensive et défensive.
+* 🤖 **Là où l'IA rencontre la sécurité** : le Machine Learning et le Deep Learning permettent de repérer des comportements anormaux dans un trafic réseau. C'est la direction que je souhaite approfondir : la **détection intelligente des intrusions et des cybermenaces**.
+
+```mermaid
+flowchart LR
+    A["🌐 Réseaux<br/>TCP/IP · OSPF · BGP · VLAN · VPN"] --> B["🛡️ Sécurité des<br/>systèmes et réseaux"]
+    C["🤖 IA<br/>Machine Learning · Deep Learning"] --> B
+    B --> D["🔍 Détection intelligente<br/>des intrusions et cybermenaces"]
+```
 
 <hr>
 
