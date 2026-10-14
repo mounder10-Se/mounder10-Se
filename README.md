@@ -11,26 +11,20 @@
 
 <br>
 
+<h2 align="center">🚀 Bonjour, je suis Moundir Semroune</h2>
 <p align="center">
-  Salut, je suis <b>Moundir SEMROUNE</b>, étudiant en Master 2 Sciences des données et Intelligence artificielle, d'Algérie 🇩🇿
-  <br>
-  <br>
-  🏨 J'ai conçu et développé une <b>application web de gestion hôtelière (PMS)</b> avec Node.js, React, Flutter et MySQL pour mon projet de fin de licence
-  <br>
-  🍽️ J'ai réalisé une <b>plateforme de gestion de restaurant</b> intégrant IA, IoT et chatbot, avec React (TypeScript) et Django
-  <br>
-  🤖 J'ai mené un projet de <b>Machine Learning</b> de classification binaire : prétraitement, valeurs manquantes, comparaison d'algorithmes
-  <br>
-  🗄️ J'ai travaillé sur trois types de bases de données : <b>PostgreSQL, MongoDB et Neo4j</b>
-  <br>
-  🌦️ J'ai effectué un stage à <b>Météo Algérie</b> (Constantine) : traitement et analyse de données météorologiques en temps réel
-  <br>
-  🌐 Je développe en web (Django, Express JS, React, Next.js) et en mobile (Flutter / Dart)
-  <br>
-  🎓 Licence en Informatique et Master en Sciences des données & IA, Université de Constantine 2 – Abdelhamid Mehri
-  <br>
-  📫 Me contacter : <a href="mailto:mounder.semroun@univ-constantine2.dz">mounder.semroun@univ-constantine2.dz</a>
+  🎓 Étudiant en Master 2 Data Science & IA | 💻 Développeur Full-Stack | 🤖 Passionné d'Intelligence Artificielle
 </p>
+
+### 💫 À propos de moi
+
+Je suis un développeur polyvalent, étudiant en Sciences des données et Intelligence artificielle à l'Université de Constantine 2. J'aime construire des applications complètes, du backend au mobile, et exploiter l'IA et les données pour créer des systèmes plus intelligents.
+
+* 🛠️ **Projets** : application web de gestion hôtelière (PMS), plateforme de gestion de restaurant avec IA, IoT et chatbot, projets de Machine Learning et de bases de données (PostgreSQL, MongoDB, Neo4j).
+* 🌦️ **Expérience** : stage à Météo Algérie (Constantine), traitement et analyse de données météorologiques en temps réel.
+* 💬 **Demandez-moi** : Python, Java, Django, Flutter ou React.
+* ⚡ **Fun fact** : j'apprends en autodidacte, j'ai toujours envie de découvrir, tester et maîtriser de nouvelles technologies.
+* 📫 **Me contacter** : [mounder.semroun@univ-constantine2.dz](mailto:mounder.semroun@univ-constantine2.dz)
 
 <hr>
 
