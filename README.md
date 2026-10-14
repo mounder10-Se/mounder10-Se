@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-R%C3%A9seaux-1BA0D7?style=for-the-badge" alt="Réseaux">
-  <img src="https://img.shields.io/badge/Focus-Cybers%C3%A9curit%C3%A9-C0392B?style=for-the-badge" alt="Cybersécurité">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-C0392B?style=for-the-badge" alt="Mobile et Web">
   <img src="https://img.shields.io/badge/Focus-IA%20%26%20Data-8E44AD?style=for-the-badge" alt="IA et Data">
 </p>
 
@@ -27,7 +27,6 @@ Je suis un développeur polyvalent, étudiant en Sciences des données et Intell
 
 * 🛡️ **Ce qui me motive** : les réseaux et la sécurité des systèmes informatiques. Je m'y forme en autonomie (Packet Tracer, VMware, Linux/Kali) et je veux y appliquer l'IA pour détecter les intrusions et les cybermenaces.
 * 🛠️ **Projets** : application web de gestion hôtelière (PMS), plateforme de gestion de restaurant avec IA, IoT et chatbot, projets de Machine Learning et de bases de données (PostgreSQL, MongoDB, Neo4j).
-* 🌦️ **Expérience** : stage à Météo Algérie (Constantine), traitement et analyse de données météorologiques en temps réel.
 * 💬 **Demandez-moi** : réseaux (routage, VLAN, VPN), sécurité, IA, Python, Django, Flutter ou React.
 * ⚡ **Fun fact** : j'apprends en autodidacte, et je me demande toujours comment un système pourrait être attaqué avant de me demander comment le construire.
 * 📫 **Me contacter** : [mounder.semroun@univ-constantine2.dz](mailto:mounder.semroun@univ-constantine2.dz)
