@@ -21,7 +21,6 @@
 Je suis un développeur polyvalent, étudiant en Sciences des données et Intelligence artificielle à l'Université de Constantine 2. J'aime construire des applications complètes, du backend au mobile, et exploiter l'IA et les données pour créer des systèmes plus intelligents.
 
 * 🛠️ **Projets** : application web de gestion hôtelière (PMS), plateforme de gestion de restaurant avec IA, IoT et chatbot, projets de Machine Learning et de bases de données (PostgreSQL, MongoDB, Neo4j).
-* 🌦️ **Expérience** : stage à Météo Algérie (Constantine), traitement et analyse de données météorologiques en temps réel.
 * 💬 **Demandez-moi** : Python, Java, Django, Flutter ou React.
 * ⚡ **Fun fact** : j'apprends en autodidacte, j'ai toujours envie de découvrir, tester et maîtriser de nouvelles technologies.
 * 📫 **Me contacter** : [mounder.semroun@univ-constantine2.dz](mailto:mounder.semroun@univ-constantine2.dz)
